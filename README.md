@@ -19,13 +19,6 @@ I love exploring **all modern languages** and frameworks, building real-world ap
 - 🎯 3.6k+ commits in 2025, multiple languages and stacks  
 
 ---
-[![committers.top](https://user-badge.committers.top/senegal_public/traorecheikh.svg)](https://user-badge.committers.top/senegal_public/traorecheikh)
-![Views](https://komarev.com/ghpvc/?username=traorecheikh&label=Views)
-![Followers](https://img.shields.io/github/followers/traorecheikh?label=Followers)
-![Stars](https://img.shields.io/github/stars/traorecheikh?affiliations=OWNER%2CCOLLABORATOR&label=Repo%20Stars)
-
-I build across stacks & runtimes — Python, Java, TypeScript/JS, Dart/Flutter, Vue, Svelte, PHP/Laravel (Blade), Twig, HTML/CSS, Shell, Quarkus/Spring.
-
 ### Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=traorecheikh&show_icons=true&rank_icon=github&count_private=true&theme=radical)
 ![Streak](https://streak-stats.demolab.com?user=traorecheikh&theme=radical)
