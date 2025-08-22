@@ -1,7 +1,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=FF5733&width=800&lines=Hi,+I'm+Cheikh+Ahmed+✨;Full-Stack+Polyglot+Developer;3.6k%2B+Contributions+in+2025;Building+Across+Python,+Java,+TS,+Dart,+Vue,+PHP;Open+Source+%7C+Cloud+%7C+AI%2FML)](https://git.io/typing-svg)
 
-[![committers.top](https://user-badge.committers.top/senegal_public/traorecheikh.svg)](https://user-badge.committers.top/senegal_public/traorecheikh)
 ![Views](https://komarev.com/ghpvc/?username=traorecheikh&label=Profile+Views)
 ![Followers](https://img.shields.io/github/followers/traorecheikh?label=Followers)
 ![Stars](https://img.shields.io/github/stars/traorecheikh?affiliations=OWNER%2CCOLLABORATOR&label=Repo+Stars)
@@ -25,6 +24,7 @@ I love exploring **all modern languages** and frameworks, building real-world ap
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=traorecheikh&theme=rogue&radius=8&hide_border=true)
 
 ### Tech
+[![committers.top](https://user-badge.committers.top/senegal_public/traorecheikh.svg)](https://user-badge.committers.top/senegal_public/traorecheikh)
 ![Python](https://img.shields.io/badge/Python-000?logo=python)
 ![Java](https://img.shields.io/badge/Java-000?logo=openjdk)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?logo=typescript)
