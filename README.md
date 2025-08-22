@@ -1,10 +1,21 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=FF5733&width=800&lines=Hi,+I'm+Cheikh+Ahmed+✨;Full-Stack+Polyglot+Developer;3.6k%2B+Contributions+in+2025;Building+Across+Python,+Java,+TS,+Dart,+Vue,+PHP;Open+Source+%7C+Cloud+%7C+AI%2FML)](https://git.io/typing-svg)
 
-| Profile Views | Followers | Repo Stars | Trophy | Committers |
-|---------------|-----------|------------|--------|------------|
-| ![Views](https://komarev.com/ghpvc/?username=traorecheikh&label=Profile+Views) | ![Followers](https://img.shields.io/github/followers/traorecheikh?label=Followers) | ![Stars](https://img.shields.io/github/stars/traorecheikh?affiliations=OWNER%2CCOLLABORATOR&label=Repo+Stars) | [![trophy](https://github-profile-trophy.vercel.app/?username=traorecheikh&theme=radical&column=4)](https://github.com/ryo-ma/github-profile-trophy) | [![committers.top](https://user-badge.committers.top/senegal_public/traorecheikh.svg)](https://user-badge.committers.top/senegal_public/traorecheikh) |
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=traorecheikh&theme=radical&column=4" alt="trophy" />
+  </a>
+</p>
 
+<!-- Badges below trophy -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=traorecheikh&label=Profile+Views" alt="Views" /> 
+  <img src="https://img.shields.io/github/followers/traorecheikh?label=Followers" alt="Followers" /> 
+  <img src="https://img.shields.io/github/stars/traorecheikh?affiliations=OWNER%2CCOLLABORATOR&label=Repo+Stars" alt="Stars" /> 
+  <a href="https://user-badge.committers.top/senegal_public/traorecheikh">
+    <img src="https://user-badge.committers.top/senegal_public/traorecheikh.svg" alt="Committers" />
+  </a>
+</p>
 ---
 
 ## 🧑🏾‍💻 About Me
