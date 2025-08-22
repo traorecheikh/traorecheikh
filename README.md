@@ -16,7 +16,6 @@
     <img src="https://user-badge.committers.top/senegal_public/traorecheikh.svg" alt="Committers" />
   </a>
 </p>
----
 
 ## 🧑🏾‍💻 About Me
 
