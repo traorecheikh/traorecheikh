@@ -1,4 +1,4 @@
-
+---
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=FF5733&width=800&lines=Hi,+I'm+Cheikh+Ahmed+✨;Full-Stack+Polyglot+Developer;3.6k%2B+Contributions+in+2025;Building+Across+Python,+Java,+TS,+Dart,+Vue,+PHP;Open+Source+%7C+Cloud+%7C+AI%2FML)](https://git.io/typing-svg)
 
 <p align="center">
