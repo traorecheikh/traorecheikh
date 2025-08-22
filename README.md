@@ -11,12 +11,11 @@
 
 ## 🧑🏾‍💻 About Me
 
-I’m Cheikh a passionate **Full-Stack Polyglot Developer** from Dakar, Senegal, Lets get along.  
-I love exploring **all modern languages** and frameworks, building real-world apps, and contributing to **open-source projects**.  
+I’m Cheikh a passionate **Full-Stack Polyglot Developer** from Dakar, Senegal. Lets get along.  
+I love exploring **all modern languages** and frameworks, building real-world apps.  
 
-- 🌱 Always learning AI/ML, cloud, and scalable backends  
+- 🌱 Always learning scalable backends and infrastructure  
 - 💼 Active in organizations: `@TyvaaServices`, `@QuantaFL`, `@Teksi-inc`, `@404-NotFound-Org`  
-- 🎯 3.6k+ commits in 2025, multiple languages and stacks  
 
 ---
 ### Stats
