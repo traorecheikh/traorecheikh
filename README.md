@@ -1,5 +1,24 @@
-# Hi, I’m Cheikh 👋
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=FF5733&width=800&lines=Hi,+I'm+Cheikh+T+👋;Full-Stack+Polyglot+Developer;3.6k%2B+Contributions+in+2025;Building+Across+Python,+Java,+TS,+Dart,+Vue,+PHP;Open+Source+%7C+Cloud+%7C+AI%2FML)](https://git.io/typing-svg)
+
+[![committers.top](https://user-badge.committers.top/senegal_public/traorecheikh.svg)](https://user-badge.committers.top/senegal_public/traorecheikh)
+![Views](https://komarev.com/ghpvc/?username=traorecheikh&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/traorecheikh?label=Followers)
+![Stars](https://img.shields.io/github/stars/traorecheikh?affiliations=OWNER%2CCOLLABORATOR&label=Repo+Stars)
+[![trophy](https://github-profile-trophy.vercel.app/?username=traorecheikh&theme=radical&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 🧑🏾‍💻 About Me
+
+I’m Cheikh a passionate **Full-Stack Polyglot Developer** from Dakar, Senegal, Lets get along.  
+I love exploring **all modern languages** and frameworks, building real-world apps, and contributing to **open-source projects**.  
+
+- 🌱 Always learning AI/ML, cloud, and scalable backends  
+- 💼 Active in organizations: `@TyvaaServices`, `@QuantaFL`, `@Teksi-inc`, `@404-NotFound-Org`  
+- 🎯 3.6k+ commits in 2025, multiple languages and stacks  
+
+---
 [![committers.top](https://user-badge.committers.top/senegal_public/traorecheikh.svg)](https://user-badge.committers.top/senegal_public/traorecheikh)
 ![Views](https://komarev.com/ghpvc/?username=traorecheikh&label=Views)
 ![Followers](https://img.shields.io/github/followers/traorecheikh?label=Followers)
@@ -30,3 +49,9 @@ I build across stacks & runtimes — Python, Java, TypeScript/JS, Dart/Flutter, 
 ![Shell](https://img.shields.io/badge/Shell-000?logo=gnu-bash)
 ![Quarkus](https://img.shields.io/badge/Quarkus-000?logo=quarkus)
 ![Spring](https://img.shields.io/badge/Spring-000?logo=spring)
+
+
+### ⚡ Fun Fact
+
+I code in almost **all modern languages**, enjoy tackling **challenging problems**, and love **showing my contributions visually**.
+- LinkedIn: [cheikh-tidiane-traoré](https://www.linkedin.com/in/cheikh-tidiane01)  
