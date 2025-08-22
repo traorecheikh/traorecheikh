@@ -25,22 +25,13 @@ I love exploring **all modern languages** and frameworks, building real-world ap
 
 ### Tech
 [![committers.top](https://user-badge.committers.top/senegal_public/traorecheikh.svg)](https://user-badge.committers.top/senegal_public/traorecheikh)
-![Python](https://img.shields.io/badge/Python-000?logo=python)
-![Java](https://img.shields.io/badge/Java-000?logo=openjdk)
-![TypeScript](https://img.shields.io/badge/TypeScript-000?logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?logo=javascript)
-![Dart](https://img.shields.io/badge/Dart-000?logo=dart)
-![Flutter](https://img.shields.io/badge/Flutter-000?logo=flutter)
-![Vue](https://img.shields.io/badge/Vue-000?logo=vue.js)
-![Svelte](https://img.shields.io/badge/Svelte-000?logo=svelte)
-![PHP](https://img.shields.io/badge/PHP-000?logo=php)
-![Laravel/Blade](https://img.shields.io/badge/Blade-000?logo=laravel)
-![Twig](https://img.shields.io/badge/Twig-000?logo=twig)
-![HTML5](https://img.shields.io/badge/HTML5-000?logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000?logo=css3)
-![Shell](https://img.shields.io/badge/Shell-000?logo=gnu-bash)
-![Quarkus](https://img.shields.io/badge/Quarkus-000?logo=quarkus)
-![Spring](https://img.shields.io/badge/Spring-000?logo=spring)
+| Python | Java | TypeScript | JavaScript | Dart |
+|--------|------|------------|------------|------|
+| ![Python](https://img.shields.io/badge/Python-000?logo=python) | ![Java](https://img.shields.io/badge/Java-000?logo=openjdk) | ![TypeScript](https://img.shields.io/badge/TypeScript-000?logo=typescript) | ![JavaScript](https://img.shields.io/badge/JavaScript-000?logo=javascript) | ![Dart](https://img.shields.io/badge/Dart-000?logo=dart) |
+
+| Flutter | Vue | Svelte | PHP | Laravel/Blade |
+|---------|-----|--------|-----|---------------|
+| ![Flutter](https://img.shields.io/badge/Flutter-000?logo=flutter) | ![Vue](https://img.shields.io/badge/Vue-000?logo=vue.js) | ![Svelte](https://img.shields.io/badge/Svelte-000?logo=svelte) | ![PHP](https://img.shields.io/badge/PHP-000?logo=php) | ![Blade](https://img.shields.io/badge/Blade-000?logo=laravel) |
 
 
 ### ⚡ Fun Fact
