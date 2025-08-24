@@ -12,8 +12,8 @@
   <img src="https://komarev.com/ghpvc/?username=traorecheikh&label=Profile+Views" alt="Views" /> 
   <img src="https://img.shields.io/github/followers/traorecheikh?label=Followers" alt="Followers" /> 
   <img src="https://img.shields.io/github/stars/traorecheikh?affiliations=OWNER%2CCOLLABORATOR&label=Repo+Stars" alt="Stars" /> 
-  <a href="https://user-badge.committers.top/senegal_public/traorecheikh">
-    <img src="https://user-badge.committers.top/senegal_public/traorecheikh.svg" alt="Committers" />
+  <a href="https://user-badge.committers.top/senegal_private/traorecheikh">
+    <img src="https://user-badge.committers.top/senegal_private/traorecheikh.svg" alt="Committers" />
   </a>
 </p>
 
